@@ -1,0 +1,11 @@
+http://localhost/supermarket/
+
+admin
+
+username : admin
+password : admin
+
+vendor login
+
+username :toko nina
+password : 7hhygaht
